@@ -9,7 +9,7 @@ void frame_withX(int x);
 
 int main() {
 	int x = 5;
-	/*
+	
 	printf("Plese Enter Your x:\n");
 	scanf_s("%d", &x);
 
@@ -18,9 +18,9 @@ int main() {
 	square(x);
 	printf("\n");
 	XO(x);
-	
+	printf("\n");
 	frame(x);
-	*/
+	printf("\n");
 	frame_withX(x);
 }
 	
